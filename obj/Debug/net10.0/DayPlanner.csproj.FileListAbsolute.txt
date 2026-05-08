@@ -1,0 +1,14 @@
+/Users/batyrhanamantai/DayPlanner/bin/Debug/net10.0/DayPlanner
+/Users/batyrhanamantai/DayPlanner/bin/Debug/net10.0/DayPlanner.deps.json
+/Users/batyrhanamantai/DayPlanner/bin/Debug/net10.0/DayPlanner.runtimeconfig.json
+/Users/batyrhanamantai/DayPlanner/bin/Debug/net10.0/DayPlanner.dll
+/Users/batyrhanamantai/DayPlanner/bin/Debug/net10.0/DayPlanner.pdb
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.AssemblyInfoInputs.cache
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.AssemblyInfo.cs
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.csproj.CoreCompileInputs.cache
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.dll
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/refint/DayPlanner.dll
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.pdb
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/DayPlanner.genruntimeconfig.cache
+/Users/batyrhanamantai/DayPlanner/obj/Debug/net10.0/ref/DayPlanner.dll
